@@ -1,0 +1,22 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 8px;
+}
+.hh {
+    text-align: left;
+}
+th {
+    background-color: #dddddd;
+}
+.hj {
+    background-color: rgb(187, 226, 226);
+}
+button {
+    background-color: aliceblue;
+}
